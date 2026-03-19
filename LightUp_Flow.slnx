@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="LightUp.API/LightUp.API.csproj" />
+  <Project Path="LightUp.Application/LightUp.Application.csproj" />
+  <Project Path="LightUp.Domain/LightUp.Domain.csproj" />
+  <Project Path="LightUp.Infrastructure/LightUp.Infrastructure.csproj" />
+  <Project Path="LightUp.Persistence/LightUp.Persistence.csproj" />
+  <Project Path="LightUp.Shared/LightUp.Shared.csproj" />
+  <Project Path="LightUp.UnitTests/LightUp.UnitTests.csproj" Id="4ed44744-097c-4527-b349-0a19e6b976de" />
+</Solution>

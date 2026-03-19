@@ -1,0 +1,6 @@
+@LightUp.API_HostAddress = http://localhost:5192
+
+GET {{LightUp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
